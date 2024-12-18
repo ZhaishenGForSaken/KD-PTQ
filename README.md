@@ -40,6 +40,4 @@ The script (`knowledgedis.py`) provides functions to test different alpha and te
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests with any enhancements or bug fixes.
 
-```
-This README can be tailored further based on the specific needs of your project or any additional details you might want to include.
-```
+
